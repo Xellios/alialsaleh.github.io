@@ -50,7 +50,7 @@
                     <p></p>
                     I am a medior software developer, most of my experience stems from .NET.
                     <br />
-                    I was in luck to experience a variety of challenges early on, such as designing scalable software in general ranging from offshore clients to small businesses.
+                    I was fortunate to experience a variety of challenges early on, such as designing scalable software in general ranging from offshore clients to small businesses.
                     My preference goes to designing or aiding in the development of server-less backend apps, micro services or event-driven architecture in general.
                     <br /><br />
                     Vast experience in designing and setting up databases, well acquainted of ORMS (Dapper, Fluent/Nhibernate, DevExpress, Entity Framework).
