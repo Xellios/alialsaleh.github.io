@@ -43,7 +43,7 @@
                         <span class="text-primary font-italic" style="font-size: 0.8em !important; color: #343a40 !important">al-Saleh</span>
                     </h1>
                     <div class="subheading mb-5">
-                        Sumatrastraat 114 · Utrecht · Software Developer
+                        Sierbloem 6 · Rotterdam · Software Developer
                     </div>
                     <p class="lead mb-5">
                         Thank you for checking out my portfolio.
